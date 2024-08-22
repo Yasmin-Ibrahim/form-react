@@ -1,0 +1,21 @@
+.bodyModeal {
+    background-color:rgba(0, 0, 0, .55);
+    width: 100vw;
+    height: 100vh;
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.modal {
+    background-color: #fff;
+    color: rgb(20, 183, 20);
+    width: 53%;
+    text-transform: capitalize;
+    border-radius: 2px;
+}
+
+.modal .head-modal{
+    font-size: 37px;
+}
